@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imagainroy/Assinment_2_TOD0_APP/static/css/main.394a60d5.css",
+    "main.js": "/imagainroy/Assinment_2_TOD0_APP/static/js/main.838f8012.js",
+    "static/js/787.28cb0dcd.chunk.js": "/imagainroy/Assinment_2_TOD0_APP/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/imagainroy/Assinment_2_TOD0_APP/index.html",
+    "main.394a60d5.css.map": "/imagainroy/Assinment_2_TOD0_APP/static/css/main.394a60d5.css.map",
+    "main.838f8012.js.map": "/imagainroy/Assinment_2_TOD0_APP/static/js/main.838f8012.js.map",
+    "787.28cb0dcd.chunk.js.map": "/imagainroy/Assinment_2_TOD0_APP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394a60d5.css",
+    "static/js/main.838f8012.js"
+  ]
+}
