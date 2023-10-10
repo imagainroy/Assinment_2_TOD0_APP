@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App {
+  width: 700px;
+  height: 100VH;
+  border: 2PX solid orangered;
+  /*background: rgb(238, 237, 235);*/
+  -webkit-box-shadow: 6px 15px 19px 19.5px #000000;
+  -moz-box-shadow: 6px 15px 19px 19.5px #000000;
+  box-shadow: 6px 15px 19px 19.5px #000000;
+  background: #5050ce;
+  background: -webkit-linear-gradient(241deg, #5050ce 0%, #a6f2e8 100%);
+  background: linear-gradient(241deg, #5050ce 0%, #a6f2e8 100%);
+}
+
+.App input {
+  width: 400px;
+  height: 40px;
+  background: transparent;
+  border: 2px soid orange;
+  color: black;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.App button {
+  padding: 10px 10px;
+  border-radius: 10px;
+  background: orange;
+  color: black;
+  margin-left: 10px;
+  border: 2px solid orange;
+}
+
+.App li {
+  list-style: decimal;
+  background-color: aliceblue;
+  border: 2px solid orangered;
+  width: 500px;
+  height: auto;
+  border-radius: 20px;
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  -webkit-box-shadow: 1.5px 3px 18px 6px #0c0a0a;
+  -moz-box-shadow: 1.5px 3px 18px 6px #0c0a0a;
+  box-shadow: 1.5px 3px 18px 6px #0c0a0a;
+}
+
+.App .note-list button {
+  margin-left: 30px;
+  align-items: end;
+  justify-content: end;
+
+}
+
+.App .note-list {
+  display: inline-block;
+  align-items: end;
+  justify-content: left;
+
+}
+
+.App .note-list span {
+  margin-right: 40px;
+}
+
+.App .note-list button {
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: orangered;
+  color: black;
+}
